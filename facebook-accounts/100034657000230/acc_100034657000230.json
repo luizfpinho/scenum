@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "21.10.2022 01:54 Farm3-8D Luiz",
+	"lastEventDate": "21.10.2022 17:11 Farm3-8D Luiz",
 	"status": 2,
 	"id": "100034657000230",
 	"name": "ria.angraeni.127",
 	"screenname": "Ria Angraeni",
 	"birthdate": "2005 August 10",
 	"country": "Tasikmalaya",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -37,7 +37,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697579708.88668,
+			"expirationDate": 1697908252.237529,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -50,33 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1666649313,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1200x636"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1697579708.886712,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "10%3AbnpDSxp7r29eHQ%3A2%3A1665353685%3A-1%3A11095%3A%3AAcU5dUandgX-bBZGuKvciNOA3wHR3bpQbRTkRcZwj40"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1666648512,
+			"expirationDate": 1666654152,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -89,7 +63,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673820429.490789,
+			"expirationDate": 1666977089,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1200x636"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1697908252.237599,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "10%3AbnpDSxp7r29eHQ%3A2%3A1665353685%3A-1%3A11095%3A%3AAcVgoOwJp9tsQoQ2qtioy_vHwfT5GoGH8-ijDMWUigE"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674148251.237677,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VuUIXGa67hb9qPhR.AWXNe82_GmLTlE7-Fc4NRwKA0Z8.BjTc8-.hp.AAA.0.0.BjTdIO.AWU1PZlijsg"
+			"value": "0S52NttZNGFjReQtb.AWUoOxYC2KEsZHCtuk9EXEl5QCE.BjUtKd.hp.AAA.0.0.BjUtKd.AWUREsjQt8g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,7 +110,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.111758797840994%22%7D%2C%7B%22i%22%3A%22u.110001105039305%22%7D%2C%7B%22i%22%3A%22u.107691981994772%22%7D%2C%7B%22i%22%3A%22u.199504650087085%22%7D%2C%7B%22i%22%3A%22u.180368555328146%22%7D%2C%7B%22i%22%3A%22u.301274630444669%22%7D%5D%2C%22utc3%22%3A1666044509405%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22g.3597484533617245%22%7D%2C%7B%22i%22%3A%22u.107691981994772%22%7D%2C%7B%22i%22%3A%22u.110001105039305%22%7D%2C%7B%22i%22%3A%22u.111758797840994%22%7D%2C%7B%22i%22%3A%22u.477288659295819%22%7D%2C%7B%22i%22%3A%22u.378041382397454%22%7D%2C%7B%22i%22%3A%22u.194559393906653%22%7D%2C%7B%22i%22%3A%22u.199504650087085%22%7D%2C%7B%22i%22%3A%22u.180368555328146%22%7D%2C%7B%22i%22%3A%22u.301274630444669%22%7D%2C%7B%22i%22%3A%22u.109342245204391%22%7D%5D%2C%22utc3%22%3A1666372278308%2C%22v%22%3A1%7D"
 		}
-	]
+	],
+	"amountFriends": "527"
 }
