@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667050659,
+			"expirationDate": 1667050805,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674221680.493844,
+			"expirationDate": 1674221865.724412,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VMXONPlNBGyi7OHE.AWV7rAXpNO5dbU-Je2jeteoJ-ZQ.BjU_A0._U.AAA.0.0.BjU_Fx.AWUt-NrfJsU"
+			"value": "0VMXONPlNBGyi7OHE.AWUYS9q_UCq-RqJKRihSSvb2BgI.BjU_A0._U.AAA.0.0.BjU_Iq.AWXZKi0PP-Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,8 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666445815081%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666445983135%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.10.2022 13:37 criar perfil Luiz"
+	"lastEventDate": "22.10.2022 13:40 criar perfil Luiz"
 }
